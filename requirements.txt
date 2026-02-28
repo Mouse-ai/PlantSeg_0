@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+scikit-image
+numpy
+python-multipart  # для загрузки файлов
